@@ -20,7 +20,11 @@ The following packages are required to run the notebook:
 If you manage your dependencies with conda you can use the [yml file](https://github.com/bussilab/shape-grandcanonical-md/blob/main/shapemd.yml) in the repository.
 
 You can run 
-`conda env create -f environment.yml` 
+
+`conda env create -f environment.yml`
+
 to create the conda environment and then 
+
 `conda activate shapemd` 
+
 to activate it.
