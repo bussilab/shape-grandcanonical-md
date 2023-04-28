@@ -40,3 +40,5 @@ Following is a summary of the notebooks and their usage:
 
 In the [data/example_data](https://github.com/bussilab/shape-grandcanonical-md/tree/main/data) folder you can find example data. Example data consist of:
 - trajectories (`.xtc` files): a subsampling made with a stride of 250 frames of the original trajectories available for download on [Zenodo](https://zenodo.org/record/7139541#.ZEvzCi1Bzq0)
+- topologies (`.gro` files): files that can be used as topologies within analyses made with Python package `mdtraj`
+- other: other files containing data extracted from the original trajectories
