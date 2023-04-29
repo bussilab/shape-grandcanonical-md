@@ -34,7 +34,8 @@ to activate it.
 In the [notebooks](https://github.com/bussilab/shape-grandcanonical-md/tree/main/notebooks) folder you can find Jupyter notebooks that can be run to reproduce most parts of the analyses carried out in the paper.
 Following is a summary of the notebooks and their usage:
 - `compute_bindings.ipynb`: compute a tensor of binding frequencies from trajectories with different numbers of reagent copies;
-- `gc_reweight.ipynb`: compute the maximum-likelihood partition functions of buffer and binding regions, estimate the chemical potential as a function of the number of particles in the buffer region and compute grand-canonical averages.
+- `gc_reweight.ipynb`: compute the maximum-likelihood partition functions of buffer and binding regions, estimate the chemical potential as a function of the number of particles in the buffer region and compute grand-canonical averages;
+- `experiments.ipynb`: analyse in-house experimental data used in the paper (fit concentration-dependent reactivities and perform statistical tests on GNRA nucleotides.
 
 ## Example Data
 
